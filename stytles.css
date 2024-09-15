@@ -1,0 +1,21 @@
+body {
+    background-color: #36454F;
+}
+
+.circle-image {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+}
+
+.circle-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.colors {
+    background-color: #ffff00;
+}
